@@ -1,0 +1,11 @@
+Simple script that exports to excel.
+
+Usage:
+ruby export_to_excel.rb
+
+Output:
+/tmp/out.xls
+
+References:
+http://railscasts.com/episodes/362-exporting-csv-and-excel?view=asciicast
+http://msdn.microsoft.com/en-us/library/aa140066(v=office.10).aspx
